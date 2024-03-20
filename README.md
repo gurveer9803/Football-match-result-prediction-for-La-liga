@@ -1,4 +1,4 @@
-# Football Match Prediction Using Machine Learning
+# Football Match Prediction
 In this project,
 
 ●	Utilized web scraping techniques to gather match data from various sources for the Spanish Football League covering matches over the past three seasons.
